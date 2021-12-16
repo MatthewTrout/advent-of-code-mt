@@ -1,0 +1,20 @@
+{
+  "name": "advent-of-code-mt",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewTrout/advent-of-code-mt.git"
+  },
+  "author": "Matthew Trout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewTrout/advent-of-code-mt/issues"
+  },
+  "homepage": "https://github.com/MatthewTrout/advent-of-code-mt#readme"
+}
