@@ -5,7 +5,7 @@ const { readFile } = promises
 
 const puzzleDataFilename = 'data.txt'
 
-const getRootDirectory = () => '/home/matthew/MT/advent-of-code-mt/' // @todo: until we have a proper infrastructure in place for puzzle loading
+const getRootDirectory = () => '/Users/matthewtrout/MT/advent-of-code-mt/' // @todo: until we have a proper infrastructure in place for puzzle loading
 
 export const readPuzzleDataAsArrayOfLines = async (puzzleNamespace) => {
   const localPuzzleDirectory = path.join.apply(null, puzzleNamespace)
